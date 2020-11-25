@@ -1,0 +1,122 @@
+.carousel-item img {
+    width:40rem;
+    height:40rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    margin-top: 0.5rem;
+    filter: blur(4px);
+
+}
+.carousel-caption  {
+    bottom: 11.5rem;
+    
+}
+.card{
+    background-color: #FFFFFF;
+    padding:0;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius:4px;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+}
+.card:hover{
+    box-shadow: 0 16px 24px 2px rgba(0,0,0,0.14), 0 6px 30px 5px rgba(0,0,0,0.12), 0 8px 10px -5px rgba(0,0,0,0.3);
+    color:black;
+}
+address{
+  margin-bottom: 0px;
+}
+#author a{
+  color: #fff;
+  text-decoration: none;
+    
+}
+#cardInfos{
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 1px 1px 3px 0px #aaaaaa;
+}
+#card3D{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 1px 1px 3px 0px #aaaaaa;
+}
+
+
+
+
+/*FOOTER*/
+
+footer{
+    padding: 1%;
+    background-color: rgb(58, 58, 58);
+}
+#rowFooter{
+    text-align: center;
+    color: white;
+}
+#logoFooter{
+    width: 30%;
+}
+/*SUBSCRIBE*/
+#formSubscribe {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#btnSubscribe {
+    background-color: rgb(90, 141, 217);
+    border: gray solid 0px;
+    color: white;
+}
+/*PARAGRAPH 1/Contact*/
+.pContact{
+    font-size: 0.75rem;
+}
+/*PARAGRAPH 2/Central*/
+.pCentral{
+    font-size: 0.75rem;
+}
+/*HORIZONTAL LINE*/
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(122, 122, 122);
+}
+
+/*SOCIAL NETWORKS*/
+.socialNetworks{
+    
+    margin: auto;
+
+}
+#twitter{
+    color: gray;
+}
+#twitter:hover{
+    color: rgb(185, 185, 185);
+}
+#facebook{
+    color: gray;
+}
+#facebook:hover{
+    color: rgb(185, 185, 185);
+}
+#instagram{
+    color: gray;
+}
+#instagram:hover{
+    color: rgb(185, 185, 185);
+}
+#linkedin{
+    color: gray;
+}
+#linkedin:hover{
+    color: rgb(185, 185, 185);
+}
